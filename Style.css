@@ -1,0 +1,29 @@
+.maindiv {
+  background-image:url('
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+  background-size:cover;
+    height:100vh;
+}
+.name {
+  background-color:grey;
+  text-align:center;
+  padding:20px;
+}
+.textcolor{
+  color:white;
+  }
+.sendmsg {
+  background-color:blue;
+  padding:15px;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  }
+.recmsg {
+  background-color:grey;
+  padding:15px;
+  border-top-left-radius:10px;
+
+  border-top-right-radius:10px;
+  border-bottom-right-radius:10px;
+}
